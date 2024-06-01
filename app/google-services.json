@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "982774462079",
+    "firebase_url": "https://tugas-besar-sister-default-rtdb.firebaseio.com",
+    "project_id": "tugas-besar-sister",
+    "storage_bucket": "tugas-besar-sister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982774462079:android:a051b4ccd6a46c593df14a",
+        "android_client_info": {
+          "package_name": "com.example.smart_trash_bin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvIRgobH7VhxsONSG5lJNwjFv2YLGypqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
